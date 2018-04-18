@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: ljt
+Class-Path: . lib/dubbo-2.5.8.jar lib/spring-context-4.3.10.RELEASE.ja
+ r lib/spring-aop-4.3.10.RELEASE.jar lib/spring-core-4.3.10.RELEASE.ja
+ r lib/commons-logging-1.2.jar lib/spring-expression-4.3.10.RELEASE.ja
+ r lib/spring-beans-4.3.10.RELEASE.jar lib/spring-web-4.3.10.RELEASE.j
+ ar lib/javassist-3.20.0-GA.jar lib/netty-3.2.5.Final.jar lib/zkclient
+ -2.1.2.jar lib/zookeeper-3.4.9.jar lib/log4j-1.2.17.jar lib/slf4j-api
+ -1.7.5.jar lib/slf4j-log4j12-1.7.5.jar lib/zkclient-0.2.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: com.alibaba.dubbo.container.Main
+
